@@ -1,0 +1,3 @@
+html.gray, body, body * {
+    filter: none !important
+}
